@@ -1,4 +1,4 @@
-# Group-Flash
+# oo3FlashProject
 Members: Aldaba, Caidic, Cid
 
 Title: FlashFitness
@@ -14,3 +14,4 @@ Features:
 - Exercise database
 - Workout Recommendations
 - Calorie Tracker
+
